@@ -1,0 +1,33 @@
+#bruh {
+ background-color: grey ;
+ width: 25%;
+ height: 100%;
+}
+
+#bruv {
+background-color: grey ;
+width: 25%;
+ height: 100%;
+}
+
+#fam {
+	background-color: grey;
+	width: 25%;
+ height: 100%;
+}
+
+#broke {
+	background-image: : url("http://hdwpro.com/wp-content/uploads/2018/01/Black-Wallpaper-hd.jpg") opacity: 1%;
+		width: 25%;
+ height: 100%;
+}
+
+#broke,#fam,#bruv,#bruh {
+	float: left;
+}
+
+#troll{
+	width: 9000%;
+	margin-left: auto;
+	margin-right: auto;
+}
